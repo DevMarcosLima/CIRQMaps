@@ -65,10 +65,6 @@ By simulating quantum circuits, the system evaluates all possible routes simulta
 - **Scalability Improvements**: Expand the system to handle larger urban environments and more complex routing scenarios.
 - **User Preferences**: Incorporate user-specific preferences for route selection, such as avoiding toll roads or preferring scenic routes.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for any improvements or bug fixes.
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
